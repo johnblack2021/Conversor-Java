@@ -1,2 +1,2 @@
 # Conversor-Java
-Pequeño proyecto d eun conversor de monedas y temperatura en java.
+Pequeño proyecto de un conversor de monedas y temperatura en java.
